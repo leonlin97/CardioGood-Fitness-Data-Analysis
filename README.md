@@ -46,6 +46,7 @@ In general among all three products, there are more users who have partners.
 ## Usage Distribution
 - The majority usage of TM195 and TM498 are 3 and 4.
 - TM798 is used more than other two products.
+
 ![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/a97e7b40-5b6f-4d88-b87a-04260239eb08)
 
 ## Fitness Distribution
