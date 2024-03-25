@@ -1,9 +1,9 @@
 # CardioGood-Fitness-Data-Analysis
 
 Shorcut to the content:
-1. Project Background
-2. Data Analysis using Python
-3. Conclusion and Business Strategies
+1. **[Project Background](#Project-Background)**
+2. **[Data Analysis with Python](#Data-Analysis-with-Python)**
+3. **[Conclusion and Business Strategies](#Conclusion-and-Business-Strategies)**
 
 # Project Background
 ## Context
