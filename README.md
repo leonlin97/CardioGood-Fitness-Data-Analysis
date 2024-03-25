@@ -25,7 +25,7 @@ The team identified the following customer variables to study:
 - Miles: The average number of miles the customer expects to walk/run each week;
 - Fitness: Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is excellent shape.
 
-# Data Analysis using Python
+# Data Analysis with Python
 
 ## Age Distribution
 TM195 and TM498 have border range in age, while TM798 shows a majority of users around 25 to 30 years old.
