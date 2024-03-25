@@ -27,9 +27,46 @@ The team identified the following customer variables to study:
 
 # Data Analysis using Python
 
+## Age Distribution
+TM195 and TM498 have border range in age, while TM798 shows a majority of users around 25 to 30 years old.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/d86cccaa-a1ba-468f-93f3-23ae25f3195f)
+
+## Gender Distribution
+- TM195 is used by the most users, followed by TM498, then TM798
+- While the proportion of male and female in using the TM195 and TM498 are mostly equal, there are way more male users use TM798.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/14d3ca01-5c62-4418-be70-342334b4e19a)
+
+## Education Distribution
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/57b33b24-a736-4f4d-bc08-484e9bd57faf)
+
+## Martial Status Distribution
+In general among all three products, there are more users who have partners.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/37e7079a-200d-4c02-8050-fd5bf38c9479)
+
+## Usage Distribution
+- The majority usage of TM195 and TM498 are 3 and 4.
+- TM798 is used more than other two products.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/a97e7b40-5b6f-4d88-b87a-04260239eb08)
+
+## Fitness Distribution
+- Users using TM798 have more fitness than those who use other twp products
+- TM195 and TM498 seems to be a useful product for user to maintain normal fitness.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/30774a93-fe4a-4153-ada3-b2e80b1d980a)
+
+## Income Distribution
+- The users of TM798 have significantly higher incomes compared to those of the other two products.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/03f75349-47be-474b-9e73-2e2937b361b9)
+
+
+## Mileage Distribution
+- TM798 achieves the highest mileage score, followed by TM198 and then TM195.
+- The majority mileage of TM198 and TM195 falls between 50 to 100.
+![image](https://github.com/leonlin97/CardioGood-Fitness-Data-Analysis/assets/142073522/23c4e8f2-73cd-407b-a5cb-ae9c96a1df40)
+
+
 # Conclusion and Business Strategies
 
-##Customer Profile of each product
+## Customer Profile of each product
 
 ### TM195
 
